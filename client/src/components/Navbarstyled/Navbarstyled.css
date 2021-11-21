@@ -1,0 +1,21 @@
+.home-icon {
+  font-size: 22px;
+}
+
+.home-icon:active {
+  color: #01bf71;
+}
+
+.nav-icons {
+  color: none;
+  font-size: 25px;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: #fff;
+}
